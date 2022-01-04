@@ -48,5 +48,5 @@ historical = {'location': locationid, 'date': date, 'key': '换上你的key(需�
 > 对应第三小题，生成词云图
 
 ![词云图](https://github.com/SGNYYYY/PythonLab/blob/main/lab2/%E8%AF%8D%E4%BA%91%E5%9B%BE.png)
-### main.py
+### lab2/main.py
 > 点击可运行，生成所有图
